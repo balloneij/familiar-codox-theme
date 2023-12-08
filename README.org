@@ -1,0 +1,44 @@
+#+title: Familiar Codox Theme
+
+[[https://clojars.org/com.balloneij/slouch][file:https://img.shields.io/clojars/v/com.balloneij/slouch.svg]]
+
+TODO Image
+
+Where have I seen this before?..
+
+* Live demo
+- Familiar theme
+- Default theme
+
+* Installation
+Add the following to ~project.clj~:
+
+#+begin_src clojure
+:profiles {:codox {:dependencies [[com.balloneij/familiar-codox-theme "0.1.0"]]}}
+:codox {:themes [:familiar]}
+#+end_src
+
+* Goals
+
+- Provide a Javadoc-esque appearance without disrupting the layout a developer would expect from Codox page.
+- Elicit a "huh, neat" reaction, not a "what am I looking at?"
+
+
+* Changelog
+- ~0.1.0~ Initial release
+
+* License
+Copyright 2023 Isaac Ballone.
+
+Distributed under [[LICENSE][the EPL v1.0]].
+
+** Codox
+This project is a derivative of the default [[https://github.com/weavejester/codox][Codox]] theme, which is distributed under [[licenses/codox.txt][the EPL v1.0]].
+** jQuery
+[[https://jquery.com/][jQuery]] library is distributed under [[licenses/jquery.txt][the MIT License]].
+** Highlight.js
+[[https://github.com/highlightjs/highlight.js][Highlight.js]] syntax highlighter is distributed under [[licenses/highlight.js.txt][the BSD License]].
+** DejaVu
+[[https://github.com/dejavu-fonts/dejavu-fonts][DejaVu]] fonts are distributed under [[licenses/dejavu.txt][the Bitstream Vera Fonts Copyright]].
+** Ring
+[[https://github.com/ring-clojure/ring][Ring]] is only used for demonstration purposes. It is distributed under [[licenses/ring.txt][the MIT License]].

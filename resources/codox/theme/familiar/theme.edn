@@ -1,0 +1,26 @@
+{:transforms
+ [[:head] [:append
+           [:link {:rel "stylesheet", :type "text/css" :href "css/familiar.css"}]
+           [:link {:rel "stylesheet", :type "text/css" :href "css/highlight.css"}]
+           [:script {:type "text/javascript", :src "js/highlight.min.js"}]
+           [:script {:type "text/javascript", :src "js/jquery.min.js"}]
+           [:script {:type "text/javascript", :src "js/page_effects.js"}]
+           [:script "hljs.initHighlightingOnLoad();"]]
+  [:div#header :> :h2] [:append " with a " [:a {:href "https://github.com/balloneij/familiar-codox-theme"} "Familiar"] " theme"]]
+ :resources
+ ["css/familiar.css"
+  "css/highlight.css"
+
+  "js/highlight.min.js"
+  "js/jquery.min.js"
+  "js/page_effects.js"
+
+  "fonts/dejavu-serif.ttf"
+  "fonts/dejavu-serif.woff"
+  "fonts/dejavu-serif.woff2"
+  "fonts/dejavu-sans.ttf"
+  "fonts/dejavu-sans.woff"
+  "fonts/dejavu-sans.woff2"
+  "fonts/dejavu-sans-mono.ttf"
+  "fonts/dejavu-sans-mono.woff"
+  "fonts/dejavu-sans-mono.woff2"]}

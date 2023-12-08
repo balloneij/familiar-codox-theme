@@ -4,7 +4,8 @@
 
 A [[https://en.wikipedia.org/wiki/Javadoc][Javadoc]] inspired theme for [[https://github.com/weavejester/codox][Codox]]. Created for the comfy feeling of familiarity.
 
-*Live demo:* Compare [[https://balloneij.github.io/familiar-codox-theme/familiar/index.html][the Familiar theme]] to [[https://balloneij.github.io/familiar-codox-theme/default/index.html][the default theme]]!
+* Live demo
+Compare [[https://balloneij.github.io/familiar-codox-theme/familiar/index.html][the Familiar theme]] to [[https://balloneij.github.io/familiar-codox-theme/default/index.html][the default theme]]!
 
 * Installation
 Add the following to ~project.clj~:
@@ -15,8 +16,7 @@ Add the following to ~project.clj~:
 #+end_src
 
 * Goals
-
-- Provide a Javadoc-esque appearance without disrupting the layout a developer would expect from Codox page.
+- Provide a Javadoc-esque appearance without disrupting the layout a developer would expect from Codox page
 - Elicit a "huh, neat" reaction, not a "what am I looking at?"
 
 * Changelog

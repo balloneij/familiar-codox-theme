@@ -2,13 +2,12 @@
 
 [[https://clojars.org/com.balloneij/slouch][file:https://img.shields.io/clojars/v/com.balloneij/slouch.svg]]
 
-TODO Image
+[[https://balloneij.github.io/familiar-codox-theme/familiar/ring.util.request.html][file:theme.jpg]]
 
 Where have I seen this before?..
 
 * Live demo
-- Familiar theme
-- Default theme
+Check out [[https://balloneij.github.io/familiar-codox-theme/familiar/index.html][Ring docs in the Familiar theme]], and compare it to [[https://balloneij.github.io/familiar-codox-theme/default/index.html][the default theme]].
 
 * Installation
 Add the following to ~project.clj~:
@@ -32,13 +31,8 @@ Copyright 2023 Isaac Ballone.
 
 Distributed under [[LICENSE][the EPL v1.0]].
 
-** Codox
-This project is a derivative of the default [[https://github.com/weavejester/codox][Codox]] theme, which is distributed under [[licenses/codox.txt][the EPL v1.0]].
-** jQuery
-[[https://jquery.com/][jQuery]] library is distributed under [[licenses/jquery.txt][the MIT License]].
-** Highlight.js
-[[https://github.com/highlightjs/highlight.js][Highlight.js]] syntax highlighter is distributed under [[licenses/highlight.js.txt][the BSD License]].
-** DejaVu
-[[https://github.com/dejavu-fonts/dejavu-fonts][DejaVu]] fonts are distributed under [[licenses/dejavu.txt][the Bitstream Vera Fonts Copyright]].
-** Ring
-[[https://github.com/ring-clojure/ring][Ring]] is only used for demonstration purposes. It is distributed under [[licenses/ring.txt][the MIT License]].
+- This project is a derivative of the default [[https://github.com/weavejester/codox][Codox]] theme, which is distributed under [[licenses/codox.txt][the EPL v1.0]].
+- [[https://jquery.com/][jQuery]] library is distributed under [[licenses/jquery.txt][the MIT License]].
+- [[https://github.com/highlightjs/highlight.js][Highlight.js]] syntax highlighter is distributed under [[licenses/highlight.js.txt][the BSD License]].
+- [[https://github.com/dejavu-fonts/dejavu-fonts][DejaVu]] fonts are distributed under [[licenses/dejavu.txt][the Bitstream Vera Fonts Copyright]].
+- [[https://github.com/ring-clojure/ring][Ring]] is only used for demonstration purposes. It is distributed under [[licenses/ring.txt][the MIT License]].

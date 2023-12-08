@@ -1,0 +1,4 @@
+{:paths ["bb"]
+ :tasks {:requires ([tasks :as t])
+         deploy:demo {:doc "Builds and deploys the demo site"
+                      :task (t/deploy-demo-site)}}}

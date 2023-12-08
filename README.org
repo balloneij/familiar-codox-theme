@@ -1,4 +1,4 @@
-#+title: Familiar Codox Theme [[https://clojars.org/com.balloneij/slouch][file:https://img.shields.io/clojars/v/com.balloneij/slouch.svg]]
+#+title: Familiar Codox Theme [[https://clojars.org/com.balloneij/familiar-codox-theme][file:https://img.shields.io/clojars/v/com.balloneij/familiar-codox-theme.svg]]
 
 [[https://balloneij.github.io/familiar-codox-theme/familiar/ring.util.request.html][file:theme.jpg]]
 
